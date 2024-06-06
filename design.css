@@ -403,7 +403,7 @@ body {
 }
 
 .image {
-    background-image: url(./playlist.png);
+    background-image: url(./images/playlist.png);
     object-fit: cover;
     height: 14rem;
     width: 14rem;
@@ -428,31 +428,31 @@ body {
 }
 
 #arijit {
-    background-image: url(img1.jpeg);
+    background-image: url(./images/img1.jpeg);
     background-position: center;
     background-size: cover;
 }
 
 #shreya {
-    background-image: url(img2.jpg);
+    background-image: url(./images/img2.jpg);
     background-position: center;
     background-size: cover;
 }
 
 #sonu {
-    background-image: url(img4.jpg);
+    background-image: url(./images/img4.jpg);
     background-position: center;
     background-size: cover;
 }
 
 #sunidhi {
-    background-image: url(img5.jpg);
+    background-image: url(./images/img5.jpg);
     background-position: center;
     background-size: cover;
 }
 
 #armaan {
-    background-image: url(img3.jpg);
+    background-image: url(./images/img3.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -472,31 +472,31 @@ body {
 }
 
 #happy {
-    background-image: url(happy.jpeg);
+    background-image: url(./images/happy.jpeg);
     background-position: center;
     background-size: cover;
 }
 
 #indie {
-    background-image: url(indie.jpg);
+    background-image: url(./images/indie.jpg);
     background-position: center;
     background-size: cover;
 }
 
 #pop {
-    background-image: url(pop.jpg);
+    background-image: url(./images/pop.jpg);
     background-position: center;
     background-size: cover;
 }
 
 #bollywood {
-    background-image: url(bollywood.jpg);
+    background-image: url(./images/bollywood.jpg);
     background-position: center;
     background-size: cover;
 }
 
 #love {
-    background-image: url(love.jpeg);
+    background-image: url(./images/love.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -566,12 +566,12 @@ body {
 }
 
 #user1 {
-    background-image: url(user1.jpeg);
+    background-image: url(./images/user1.jpeg);
     background-position: center;
     background-size: cover;
 }
 #user2 {
-    background-image: url(user2.jpg);
+    background-image: url(./images/user2.jpg);
     background-position: center;
     background-size: cover;
 }
